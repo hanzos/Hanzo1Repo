@@ -1,3 +1,3 @@
 #!/bin/sh
 
-echo "Hello Ninja"
+echo "Hello Ninja でござる"
